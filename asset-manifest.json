@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-design/static/css/main.382b3551.css",
+    "main.js": "/react-design/static/js/main.381fccb3.js",
+    "static/media/ai.png": "/react-design/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/react-design/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/react-design/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/react-design/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/react-design/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/react-design/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/react-design/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/react-design/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/react-design/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/react-design/index.html",
+    "main.382b3551.css.map": "/react-design/static/css/main.382b3551.css.map",
+    "main.381fccb3.js.map": "/react-design/static/js/main.381fccb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.382b3551.css",
+    "static/js/main.381fccb3.js"
+  ]
+}
